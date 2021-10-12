@@ -1,0 +1,5 @@
+﻿  System loggin and registration.cpp
+E:\Lessons\Псевдокоды и просто бред полный\Портфолио\System loggin and registration\System loggin and registration\Server.h(206,22): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Lessons\Псевдокоды и просто бред полный\Портфолио\System loggin and registration\System loggin and registration\Server.h(216,22): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Lessons\Псевдокоды и просто бред полный\Портфолио\System loggin and registration\System loggin and registration\Server.h(126): warning C4715: Server::CorrectlyEmail: значение возвращается не при всех путях выполнения
+  System loggin and registration.vcxproj -> E:\Lessons\Псевдокоды и просто бред полный\Портфолио\System loggin and registration\Debug\System loggin and registration.exe
